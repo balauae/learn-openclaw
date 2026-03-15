@@ -20,13 +20,13 @@ A personal study guide covering OpenClaw's architecture, features, and ecosystem
 - [x] 11 — Heartbeat
 - [x] 12 — Cron Jobs
 - [x] 13 — Thinking & Reasoning
-- [ ] 14 — Streaming & Delivery
+- [x] 14 — Streaming & Delivery
 
 ### Week 3: Ecosystem
-- [ ] 15 — Nodes (ClawNet)
-- [ ] 16 — Browser Control
-- [ ] 17 — ComfyUI / Image Gen
-- [ ] 18 — Docker & Containers
+- [x] 15 — Nodes (ClawNet)
+- [x] 16 — Browser Control
+- [x] 17 — ComfyUI / Image Gen
+- [x] 18 — Docker & Containers
 - [ ] 19 — Channels (Discord/WhatsApp/Signal)
 - [ ] 20 — Plugins & Extensions
 - [ ] 21 — CLI & Commands
