@@ -27,9 +27,9 @@ A personal study guide covering OpenClaw's architecture, features, and ecosystem
 - [x] 16 — Browser Control
 - [x] 17 — ComfyUI / Image Gen
 - [x] 18 — Docker & Containers
-- [ ] 19 — Channels (Discord/WhatsApp/Signal)
-- [ ] 20 — Plugins & Extensions
-- [ ] 21 — CLI & Commands
+- [x] 19 — Channels (Discord/WhatsApp/Signal)
+- [x] 20 — Plugins & Extensions
+- [x] 21 — CLI & Commands
 
 ## Structure
 
